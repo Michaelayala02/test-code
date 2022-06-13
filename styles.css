@@ -1,0 +1,31 @@
+.main{
+    display: flex;
+    justify-content: center;
+    border: 4px rebeccapurple solid;
+    background-color: white;
+    width: auto;
+    height: auto;
+}
+
+.words{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 4px red dotted;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    border: 4px black solid;
+}
+
+.things{
+    display: flex;
+    justify-content: center;
+}
+
+.about{
+    border: 4px red solid;
+    background-color: aqua;
+}
